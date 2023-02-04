@@ -1,0 +1,23 @@
+body{
+    
+    background-image:url(2004.jpg);
+    background-size: cover;
+    margin-top: 100px;
+}
+.black{
+    border: 10px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: relative;
+    display: inline-block;
+}
+.white{
+    border: 10px solid white;
+    height: 100px;
+    width: 100px;
+    background-color:white;
+    position: relative;
+    display: inline-block;
+
+}
